@@ -1,4 +1,4 @@
-FROM python:3.11.0b1-buster
+FROM python:3.14.0rc2-slim-trixie
 
 
 # set work directory
